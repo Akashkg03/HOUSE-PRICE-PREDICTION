@@ -1,6 +1,6 @@
 ## House Price Prediction
 #### Problem Statement:
-- The main objective of this project is to build a model that predict the housing prices in California using the California census data.
+- The main objective of this project was to build a model that predict the housing prices in California using the California census data.
 #### Methodology:
 - Utilized a regression-based machine learning approach to predict housing prices.
 - Implemented data preprocessing techniques such as handling missing values, feature scaling,feature extraction and encoding categorical variables.
